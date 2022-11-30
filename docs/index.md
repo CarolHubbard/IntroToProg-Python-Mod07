@@ -87,11 +87,11 @@ This script demonstrated the use of the Pickle function to store and retrieve co
 ## Researching Pickling
 For pickling, I found these URLs to be extremely useful:
  
-https://sites.pitt.edu/~naraehan/python3/pickling.html
+![Site 1](https://sites.pitt.edu/~naraehan/python3/pickling.html)
  
-https://subscription.packtpub.com/book/application-development/9781787288386/9/ch09lvl1sec58/pickling
+![Site 2](https://subscription.packtpub.com/book/application-development/9781787288386/9/ch09lvl1sec58/pickling)
  
-https://subscription.packtpub.com/book/application-development/9781787288386/9/ch09lvl1sec59/unpickling
+![Site 3](https://subscription.packtpub.com/book/application-development/9781787288386/9/ch09lvl1sec59/unpickling)
  
 All three sites provided examples which were enormously helpful in understanding the concepts. The example given on the first URL is heavily commented so you know exactly what is being done and why during the pickling process.
 
