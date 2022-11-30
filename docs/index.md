@@ -98,7 +98,7 @@ All three sites provided examples which were enormously helpful in understanding
 ## Researching Structured Error Handling
 Both of these sites were great for getting a better understanding of how to use error handling in Python. Both give lots of details and clear explanations with examples for each type of error.
  
-[This is a link](https://www.datacamp.com/tutorial/exception-handling-python)
+https://www.datacamp.com/tutorial/exception-handling-python
  
 https://realpython.com/python-exceptions/
 
