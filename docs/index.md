@@ -20,7 +20,7 @@ After the data has been pickled, the script pauses so the user can verify that t
 ### The Data Section
 This section begins by importing the Pickle module. This is needed in order to utilize the dump and load methods which will save and retrieve the data respectively.
  
- 
+![This is an image](./images/Listing 1.png)
 Listing 1  Import the pickle module into the script
 
 Next, we set our variables and prompt the user for the name of a gift recipient.
